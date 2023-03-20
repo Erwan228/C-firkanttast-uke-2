@@ -3,8 +3,16 @@
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Cum");
+
+        {/*For-loop*/
+            string[] ord = new string[] { "det", "er", "gøy", };
+            for (int i = 0; i < ord.Length; i++)
+            {
+                Console.WriteLine(ord[i]);
+            }
+
+            /*foreach loop*/
+
         }
     }
 }
