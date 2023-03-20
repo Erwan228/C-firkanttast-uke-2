@@ -1,0 +1,15 @@
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\bin\Debug\net7.0\Løkker.exe
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\bin\Debug\net7.0\Løkker.deps.json
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\bin\Debug\net7.0\Løkker.runtimeconfig.json
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\bin\Debug\net7.0\Løkker.dll
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\bin\Debug\net7.0\Løkker.pdb
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.csproj.AssemblyReference.cache
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.AssemblyInfoInputs.cache
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.AssemblyInfo.cs
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.csproj.CoreCompileInputs.cache
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.dll
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\refint\Løkker.dll
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.pdb
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\Løkker.genruntimeconfig.cache
+C:\Users\erwan\Documents\GitHub\C-firkanttast-uke-2\Løkker\obj\Debug\net7.0\ref\Løkker.dll
