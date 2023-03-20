@@ -32,7 +32,32 @@
         //    }
         //}
         {
+            Console.WriteLine("LINK START!");
+            Console.WriteLine();
+            int count = 5;
+            for (int i = 0; i < count; i++)
+            {
+                Console.WriteLine($"{i + 1} Terje er kul");
+            }
+            Console.WriteLine();
+            string ttteexxtt = "ERWAN ER KUL ";
+            foreach (char t in ttteexxtt)
+            {
+                Console.WriteLine(t);
+            };
+            Console.WriteLine("FInal link start");
+            bool condition = true;
+            int runde = 1;
+            while (condition)
+            {
+                if (runde < 10)
+                {
+                    Console.WriteLine($"Runde nummer {runde}");
+                    runde++;
+                }
+                else { condition = false; };
 
+            }
         }
     }
 }
